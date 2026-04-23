@@ -9,4 +9,4 @@ The repository will be structured around the main building blocks of the project
 - `test/` — smart contract and application tests, including gas evaluation
 - `experiments/` — simulations, performance evaluations, and prototype experiments
 - `docs/` — architecture, setup instructions, and technical documentation
-- `papers/` — proposal, papers, and dissemination material
+- `papers/` — reports, papers, and dissemination material (slides)
