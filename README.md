@@ -2,7 +2,7 @@
 
 The repository will be structured around the main building blocks of the project:
 
-- `contracts/` — smart contracts implementing competence-aware DAO governance
+- `contracts/` — Solidity smart contracts implementing competence-aware DAO governance
 - `ssi/` — DID, VC, and Veramo-based SSI integration components
 - `frontend/` — user interface for governance and credential-related interactions
 - `scripts/` — deployment, configuration, and maintenance scripts
